@@ -68,7 +68,7 @@ class App {
         await this.#life.initial();
         this.output(`\rLoading Complete.
 一个魂重开模拟器
-这垃圾现实一秒也不想待了
+这就重开到枝江
 \n🎉键入 \x1B[4m/remake\x1B[24m 开始游戏`,
             true
         );
