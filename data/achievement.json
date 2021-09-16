@@ -1,10 +1,10 @@
 {
     "101": {
         "id": 101,
-        "name": "既视感",
+        "name": "你们不都是同一批人吗",
         "description": "重开10次",
         "grade": 0,
-        "condition": "TMS>9",
+        "condition": "TMS>4",
         "hide": 0,
         "opportunity": "END"
     },
