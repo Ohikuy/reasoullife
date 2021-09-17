@@ -1,14 +1,14 @@
 {
     "1001": {
         "id": "1001",
-        "name": "随身玉佩",
+        "name": "好好吃饭",
         "description": "或许有护佑作用",
         "grade": 0
     },
     "1002": {
         "id": "1002",
-        "name": "红肚兜",
-        "description": "小时候死亡率降低",
+        "name": "勇敢牛牛",
+        "description": "开始的时候就不介意花椒视频",
         "grade": 0
     },
     "1003": {
@@ -35,8 +35,8 @@
     },
     "1005": {
         "id": "1005",
-        "name": "动漫高手",
-        "description": "入宅的可能性翻6倍",
+        "name": "万象天引",
+        "description": "四处引流的可能性翻6倍",
         "grade": 2
     },
     "1006": {
@@ -75,8 +75,8 @@
     },
     "1010": {
         "id": "1010",
-        "name": "天龙人",
-        "description": "你拥有北京户口",
+        "name": "二创点赞机器人",
+        "description": "你喜欢看视频",
         "grade": 2,
         "effect": {
             "MNY": 1
@@ -95,8 +95,8 @@
     },
     "1012": {
         "id": "1012",
-        "name": "乡间微风",
-        "description": "你出生在农村",
+        "name": "论坛达人",
+        "description": "你喜欢汴京",
         "grade": 0,
         "exclusive": [
             "1010",
@@ -106,8 +106,8 @@
     },
     "1013": {
         "id": "1013",
-        "name": "城中高楼",
-        "description": "你出生在城市",
+        "name": "v老嗨",
+        "description": "你喜欢看虚拟主播",
         "grade": 0,
         "exclusive": [
             "1010",
@@ -117,8 +117,8 @@
     },
     "1014": {
         "id": "1014",
-        "name": "美籍华人",
-        "description": "你有美国国籍",
+        "name": "人上人",
+        "description": "你有很多空闲资金",
         "grade": 2,
         "effect": {
             "MNY": 1
