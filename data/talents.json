@@ -96,7 +96,7 @@
     "1012": {
         "id": "1012",
         "name": "论坛达人",
-        "description": "你喜欢汴京",
+        "description": "你喜欢理性讨论",
         "grade": 0,
         "exclusive": [
             "1010",
@@ -137,8 +137,8 @@
     },
     "1016": {
         "id": "1016",
-        "name": "水性良好",
-        "description": "不会被淹死",
+        "name": "泥头车抗性",
+        "description": "不怕泥头车",
         "grade": 0
     },
     "1017": {
